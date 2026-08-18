@@ -1,0 +1,470 @@
+[
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10053",
+        "id": "10053",
+        "key": "ATP",
+        "name": "Analytics-template Project",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10423",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10423?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10423?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10423?size=medium"
+        },
+        "projectTypeKey": "service_desk",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10039",
+        "id": "10039",
+        "key": "BP",
+        "name": "Bug Project",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10044",
+        "id": "10044",
+        "key": "BTS",
+        "name": "Bug Tracking Space ",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10033",
+        "id": "10033",
+        "key": "CBA",
+        "name": "Cab Booking Application",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10043",
+        "id": "10043",
+        "key": "DP",
+        "name": "Demo Project",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10052",
+        "id": "10052",
+        "key": "DEMO",
+        "name": "Demo service space",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
+        },
+        "projectTypeKey": "service_desk",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10086",
+        "id": "10086",
+        "key": "ES",
+        "name": "Employee Services",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10406",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10406?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10406?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10406?size=medium"
+        },
+        "projectTypeKey": "service_desk",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "47deeb56-3e63-442c-beab-5da1dc22ea85",
+        "uuid": "47deeb56-3e63-442c-beab-5da1dc22ea85"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10034",
+        "id": "10034",
+        "key": "FDA",
+        "name": "Food Delivery Application",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": true,
+        "style": "next-gen",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "be3bab92-4520-4265-9304-65478102373d",
+        "uuid": "be3bab92-4520-4265-9304-65478102373d"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10119",
+        "id": "10119",
+        "key": "IOE",
+        "name": "Internal_Operations - EmployeeOnboarding",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "44c5cc32-0177-47cf-86aa-4c08e6e4a73a",
+        "uuid": "44c5cc32-0177-47cf-86aa-4c08e6e4a73a"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10041",
+        "id": "10041",
+        "key": "KCM",
+        "name": "Kanban Company Managed",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10406",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10406?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10406?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10406?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10037",
+        "id": "10037",
+        "key": "KTM",
+        "name": "Kanban Team Managed ",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10417",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10417?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10417?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10417?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": true,
+        "style": "next-gen",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "f910f125-116e-419b-a4cf-4726bb1cbc57",
+        "uuid": "f910f125-116e-419b-a4cf-4726bb1cbc57"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10040",
+        "id": "10040",
+        "key": "KP",
+        "name": "kanban-project",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10404",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10404?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10404?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10404?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10051",
+        "id": "10051",
+        "key": "MTP",
+        "name": "Marketing-template Project",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10419",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10419?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10419?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10419?size=medium"
+        },
+        "projectTypeKey": "service_desk",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10035",
+        "id": "10035",
+        "key": "KAN",
+        "name": "My Scrum Project",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": true,
+        "style": "next-gen",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "eb7c0765-3900-4d2e-a4a9-010375d442f5",
+        "uuid": "eb7c0765-3900-4d2e-a4a9-010375d442f5"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10047",
+        "id": "10047",
+        "key": "NEW",
+        "name": "new",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": true,
+        "style": "next-gen",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "70815503-e917-4d0e-a2f0-82dfdbcfbc31",
+        "uuid": "70815503-e917-4d0e-a2f0-82dfdbcfbc31"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10049",
+        "id": "10049",
+        "key": "NJP",
+        "name": "New JSM Project",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10405",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10405?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10405?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10405?size=medium"
+        },
+        "projectTypeKey": "service_desk",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10045",
+        "id": "10045",
+        "key": "NMT",
+        "name": "New manager team",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10042",
+        "id": "10042",
+        "key": "NSP",
+        "name": "New Scrum Project",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10421",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10421?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10421?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10421?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10046",
+        "id": "10046",
+        "key": "NEW2",
+        "name": "new2",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10048",
+        "id": "10048",
+        "key": "OSS",
+        "name": "Online Shopping System",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10425",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10425?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10425?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10425?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10050",
+        "id": "10050",
+        "key": "PS",
+        "name": "People Strong",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10152",
+        "id": "10152",
+        "key": "SRP",
+        "name": "Script-Runner Project",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10418",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10418?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10418?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10418?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "eefaec3d-a37d-4b85-bb93-e03769a4bdf3",
+        "uuid": "eefaec3d-a37d-4b85-bb93-e03769a4bdf3"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10036",
+        "id": "10036",
+        "key": "SC1",
+        "name": "Scrum Company Managed",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10416",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10416?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10416?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10416?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10038",
+        "id": "10038",
+        "key": "STMP",
+        "name": "Scrum Team manage Project ",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10406",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10406?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10406?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10406?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": true,
+        "style": "next-gen",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "482296ea-a55c-409a-9846-bf3bb454da43",
+        "uuid": "482296ea-a55c-409a-9846-bf3bb454da43"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/project/10000",
+        "id": "10000",
+        "key": "SCRUM",
+        "name": "Software project",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10418",
+            "24x24": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10418?size=small",
+            "16x16": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10418?size=xsmall",
+            "32x32": "https://padahsolutions-team-jira-jsm.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10418?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": true,
+        "style": "next-gen",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "8a303985-1e12-48c1-8be0-16610d4e7035",
+        "uuid": "8a303985-1e12-48c1-8be0-16610d4e7035"
+    }
+]
