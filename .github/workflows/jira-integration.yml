@@ -1,0 +1,55 @@
+name: Jira Build & Deployment Integration
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # ── Your actual build steps here ──
+      - name: Build Project
+        run: echo "Building project..."
+
+      # ── Get Jira Access Token ──
+      - name: Get Jira Access Token
+        id: jira_token
+        run: |
+          TOKEN=$(curl -s -X POST \
+            "https://api.atlassian.com/oauth/token" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "client_id": "${{ secrets.JIRA_CLIENT_ID }}",
+              "client_secret": "${{ secrets.JIRA_CLIENT_SECRET }}",
+              "grant_type": "client_credentials"
+            }' | jq -r '.access_token')
+          echo "access_token=$TOKEN" >> $GITHUB_OUTPUT
+
+      # ── Send Build Info to Jira ──
+      - name: Send Build Info to Jira
+        run: |
+          curl -X POST \
+            "https://api.atlassian.com/jira/builds/0.1/cloud/${{ secrets.JIRA_CLOUD_ID }}/bulk" \
+            -H "Authorization: Bearer ${{ steps.jira_token.outputs.access_token }}" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "builds": [{
+                "schemaVersion": "1.0",
+                "pipelineId": "${{ github.repository }}",
+                "buildNumber": ${{ github.run_number }},
+                "updateSequenceNumber": ${{ github.run_number }},
+                "displayName": "Build #${{ github.run_number }}",
+                "description": "Build triggered by ${{ github.actor }}",
+                "url": "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}",
+                "state": "successful",
+                "lastUpdated": "${{ github.event.head_commit.timestamp }}",
+                "issueKeys": []
+              }]
+            }'
