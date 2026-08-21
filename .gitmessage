@@ -1,0 +1,14 @@
+<PROJECT_KEY>-<ISSUE_NUMBER> <short description>
+# Example: NSP-6 fix login bug
+
+# Jira Issue:
+# https://padahsolutions-team-jira-jsm.atlassian.net/browse/<PROJECT_KEY>-<ISSUE_NUMBER>
+# Example: https://padahsolutions-team-jira-jsm.atlassian.net/browse/NSP-6
+
+# ----------------------------------------------------------
+# COMMIT GUIDELINES:
+# 1. Replace <PROJECT_KEY> with: NSP / OSS / CBA
+# 2. Replace <ISSUE_NUMBER> with the issue number (e.g. 6)
+# 3. Keep first line short (max 50 characters)
+# 4. Lines starting with # are comments (won't appear in commit)
+# ----------------------------------------------------------
