@@ -61,4 +61,9 @@ jobs:
               }]
             }")
           echo "Jira API Response: $RESPONSE"
+<<<<<<< HEAD
 
+=======
+test
+test
+>>>>>>> 2de03f7 (NSP-4 Fix Task)
