@@ -2,8 +2,8 @@
 # Example: NSP-6 fix login bug
 
 # Jira Issue:
-# https://padahsolutions-team-jira-jsm.atlassian.net/browse/<PROJECT_KEY>-<ISSUE_NUMBER>
-# Example: https://padahsolutions-team-jira-jsm.atlassian.net/browse/NSP-6
+# https://padahsolutions-team-jsm.atlassian.net/browse/<PROJECT_KEY>-<ISSUE_NUMBER>
+# Example: https://padahsolutions-team-jsm.atlassian.net/browse/NSP-6
 
 # ----------------------------------------------------------
 # COMMIT GUIDELINES:
