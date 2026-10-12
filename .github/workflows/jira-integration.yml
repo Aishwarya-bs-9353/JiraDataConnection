@@ -1,4 +1,4 @@
-name: Jira Build & Deployment Integration
+name: Jira Build & Deployment Integration!!
 
 on:
   push:
@@ -61,7 +61,3 @@ jobs:
               }]
             }")
           echo "Jira API Response: $RESPONSE"
-
-test
-test
-test
